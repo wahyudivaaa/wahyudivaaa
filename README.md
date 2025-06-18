@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Wahyu+Diva+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Wahyu+Diva)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Full+Stack+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Creating+Beautiful+Web+Experiences+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code)
 
 <img src="https://komarev.com/ghpvc/?username=wahyudivaaa&label=Profile%20views&color=0e75b6&style=flat" alt="wahyudivaaa" />
 
