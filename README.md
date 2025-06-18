@@ -26,7 +26,7 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wahyudiva)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wahyudiva2004)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wahyudivaaa)
 
 ---
-⭐️ From [wahyudiva2004](https://github.com/wahyudiva2004)
+⭐️ From [wahyudivaaa](https://github.com/wahyudivaaa)
