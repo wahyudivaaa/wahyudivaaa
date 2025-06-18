@@ -101,7 +101,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/output/github-contribution-grid-snake.svg" />
 
 **🐍 Watch the snake eat my GitHub contributions!**
 
