@@ -95,9 +95,13 @@
 - 🎯 Perfectionist when it comes to UI/UX
 - 🚀 Always excited about new technologies
 
+## 🕹️ Interactive Games
+
+### 🐍 GitHub Snake Game
+
 <div align="center">
   
-![Snake Game](https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/output/github-contribution-grid-snake.svg)
 
 **🐍 Watch the snake eat my GitHub contributions!**
 
