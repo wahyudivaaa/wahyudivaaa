@@ -20,7 +20,7 @@
 
 ## 🌟 Featured Projects
 ### Portfolio Website
-- 🔗 [Live Demo](https://wahyudiva.com)
+- 🔗 [Live Demo](https://wahyu-diva.vercel.app)
 - 📝 Personal portfolio showcasing my work and skills
 - 💻 Built with HTML, CSS, JavaScript
 
