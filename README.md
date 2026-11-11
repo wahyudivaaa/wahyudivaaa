@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=180&section=header&text=Wahyu%20Diva&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=62" alt="Wahyu Diva — Junior Full-Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=230&section=header&text=Wahyu%20Diva&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" alt="Wahyu Diva — Junior Full-Stack Web Developer"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code" alt="Typing animation"/>
