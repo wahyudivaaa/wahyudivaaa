@@ -1,131 +1,68 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=180&section=header&text=Wahyu%20Diva&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=62" alt="Wahyu Diva — Junior Full-Stack Web Developer"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Wahyu+Diva)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code" alt="Typing animation"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code)
-
-<img src="https://komarev.com/ghpvc/?username=wahyudivaaa&label=Profile%20views&color=0e75b6&style=flat" alt="wahyudivaaa" />
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/wahyudiva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/wahyudivaaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:wahyudiva2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wahyu-diva.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ## 🚀 About Me
 
-🎓 I'm a Web Developer passionate about creating beautiful and functional web experiences  
-🌱 Currently learning and growing in Full Stack Development  
-💼 Open for collaboration and interesting projects  
-⚡ Fun fact: I love coding late at night with some coffee ☕
+- 🎓 Web Developer based in Bali, Indonesia — passionate about creating beautiful and functional web experiences
+- 🔭 Currently working on **Portfolio Enhancement** and growing in **Full Stack Development**
+- 🌱 Currently learning **React.js & Node.js**
+- 💼 Open for collaboration and interesting projects — ask me about **Web Development, HTML, CSS, JavaScript**
+- ⚡ Fun fact: I do my best coding late at night, powered by coffee ☕
 
-## 🔥 Current Activities
+## 🛠️ Tech Stack
 
-- 🔭 I'm currently working on **Portfolio Enhancement**
-- 🌱 I'm currently learning **React.js & Node.js**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, HTML, CSS, JavaScript**
-- 📫 How to reach me: **wahyudiva2004@gmail.com**
+**Frontend**
 
-## 🛠️ Technologies & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="Frontend skills"/>
 
-<div align="center">
+**Backend & Database**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Backend skills"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" title="CodeIgniter"/>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Tools & Design**
 
-### Backend
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyudivaaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudivaaa&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyudivaaa&theme=radical" alt="wahyudivaaa" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyudivaaa&theme=redical&area=true&hide_border=true" width="100%">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wahyudivaaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+<img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools"/>
 
 ## 🌟 Featured Projects
 
-<div align="center">
+| Project | Description | Stack |
+|---|---|---|
+| [Portfolio Website](https://github.com/wahyudivaaa/web-portfolio) | Personal portfolio showcasing my work and skills · [Live Demo](https://wahyu-diva.vercel.app) | HTML · CSS · JavaScript |
+| [Flash Tool](https://github.com/wahyudivaaa/flash-tool) | Local-first Chrome extension & web app for ChatGPT session utilities · [Live Demo](https://flash-tool-six.vercel.app) | JavaScript · Chrome MV3 |
 
-### 🎨 Portfolio Website
+## 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/-Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://wahyu-diva.vercel.app)
-[![GitHub](https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyudivaaa/portfolio)
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=wahyudivaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wahyudivaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
 
-📝 Personal portfolio showcasing my work and skills  
-💻 **Tech Stack:** HTML, CSS, JavaScript  
-✨ **Features:** Responsive design, smooth animations, contact form
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=wahyudivaaa&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+</p>
 
-</div>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyudivaaa&theme=tokyonight" alt="Profile summary"/>
 
-## 🎮 Fun Facts
+## 🐍 Contribution Snake
 
-- 🌙 I do my best coding at night
-- ☕ Coffee is my coding fuel
-- 🎵 I code better with music
-- 🎯 Perfectionist when it comes to UI/UX
-- 🚀 Always excited about new technologies
-
-## 🕹️ Interactive Games
-
-### 🐍 GitHub Snake Game
-
-<div align="center">
-  
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/master/github-contribution-grid-snake.svg" />
-
-**🐍 Watch the snake eat my GitHub contributions!**
-
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyudiva)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyudivaaa)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyudiva2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://wahyu-diva.vercel.app)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wahyudivaaa/wahyudivaaa/master/github-contribution-grid-snake.svg" alt="GitHub Snake — watch the snake eat my GitHub contributions!"/>
+</p>
 
 ---
 
-<div align="center">
-  
-### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
 
-**Made with ❤️ by [Wahyu Diva](https://github.com/wahyudivaaa)**
+<p align="center"><b>Made with ❤️ by <a href="https://github.com/wahyudivaaa">Wahyu Diva</a></b></p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=120&section=footer" alt="Footer banner"/>
