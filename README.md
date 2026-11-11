@@ -1,7 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=230&section=header&text=Wahyu%20Diva&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" alt="Wahyu Diva — Junior Full-Stack Web Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=250&section=header&text=Wahyu%20Diva&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Junior%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=57" alt="Wahyu Diva — Junior Full-Stack Web Developer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;Creating+Beautiful+Web+Experiences;Passionate+About+Clean+Code" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-238636?style=for-the-badge" alt="Open to work"/>
 </p>
 
 <p align="center">
@@ -18,6 +22,20 @@
 - 🌱 Currently learning **React.js & Node.js**
 - 💼 Open for collaboration and interesting projects — ask me about **Web Development, HTML, CSS, JavaScript**
 - ⚡ Fun fact: I do my best coding late at night, powered by coffee ☕
+
+## 👨‍💻 Me in Code
+
+```ts
+const wahyu = {
+  role: "Junior Full-Stack Web Developer",
+  location: "Bali, Indonesia",
+  stack: ["Laravel", "React", "Node.js", "MySQL"],
+  currentlyLearning: ["React.js", "Node.js", "TypeScript"],
+  focus: "Beautiful, functional web experiences",
+  openTo: "Collaboration & interesting projects",
+  fuel: "☕ coffee + late-night coding",
+};
+```
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +71,11 @@
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyudivaaa&theme=tokyonight" alt="Profile summary"/>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahyudivaaa&theme=tokyonight" alt="Repos per language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wahyudivaaa&theme=tokyonight&utcOffset=8" alt="Productive time (WITA)"/>
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -65,4 +88,4 @@
 
 <p align="center"><b>Made with ❤️ by <a href="https://github.com/wahyudivaaa">Wahyu Diva</a></b></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=120&section=footer" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=c0caf5" alt="Footer banner"/>
